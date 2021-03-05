@@ -86,4 +86,4 @@ def conver_to_name(user):
 
 <br><br><br>
 
-참조 :<a href="https://www.daleseo.com/python-map/" style="text-align"> Dale Seo 님의 블로그</a>
+참조 :<a href="https://www.daleseo.com/python-map/"> Dale Seo 님의 블로그</a>
