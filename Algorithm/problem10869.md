@@ -31,6 +31,8 @@ print(a % b)
 예제 입력이 7 3 한줄이기 때문에
 a, b 를 한번에 입력 받고 spilt() 함수를 이용하여 a,b 변수에 각각 저장한다.<br>
 map() 함수를 이용하여 int 자료형으로 입력 받는다.<br>
+[map() 함수란?](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/map().md)
+<br>
 각 줄에 하나씩 연산을 출력해야 하므로 따로 출력한다.<br>
 
 처음 제출한 코드

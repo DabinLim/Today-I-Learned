@@ -10,8 +10,7 @@
 
 ## 분류
 ### Algorithm
-
-* BaekJun 10869
+* [BaekJun 10869](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/problem10869.md)
 
 ### Sparta Coding Club
 
@@ -20,6 +19,7 @@
 ### Java Sript
 
 ### Python
+* [map()](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/map().md)
 
 ### React
 
