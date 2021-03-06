@@ -29,7 +29,7 @@
 
 ### Python
 * [map()](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/map().md)
-* [set](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/set.md)
+* [set](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/set.md)
 
 ### React
 
