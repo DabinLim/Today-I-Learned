@@ -21,9 +21,9 @@
 * [BaekJun 4673](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/problem4673.md)
 
 * [BeakJun 1157](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/problem1157.md)
-### Sparta Coding Club
+### Sparta Coding Club (Weekly I Learned)
 
-* first week Memoir
+* [First week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
 
 ### Java Sript
 
