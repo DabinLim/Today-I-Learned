@@ -45,8 +45,7 @@
 - 다음 코드는 이를 구현한 코드이다.
 
 ```
-```python
-input = 50
+n = int(input())
 
 memo = {                # memo에 Fib(1)과 Fib(2) 저장
     1: 1,
@@ -61,7 +60,7 @@ def fibo_dp(n, fibo_memo):
     fibo_memo[n] = nth_fibo    # 없다면 새로 계산해서 메모에 저장
     return nth_fibo
 
-print(fibo_dp(input, memo))
+print(fibo_dp(n, memo))
 ```
 
 
