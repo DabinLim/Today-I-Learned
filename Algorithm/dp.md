@@ -24,7 +24,7 @@
 
 가장 흔하게 사용되는 예시이다. 예시로 5번째 피보나치 수열을 구하는 과정을 그림으로 표현하면
 
-<img src="https://github.com/DabinLim/Today-I-Learned/blob/master/images/fibo_example.png"> [참조 : 메모이제이션-나무위키](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98)
+<img src="https://github.com/DabinLim/Today-I-Learned/blob/master/images/fibo_example.png"> <br>참조 : [메모이제이션-나무위키](https://namu.wiki/w/%EB%A9%94%EB%AA%A8%EC%9D%B4%EC%A0%9C%EC%9D%B4%EC%85%98)
 
 
 <br>

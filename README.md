@@ -18,6 +18,8 @@
 
 * [동적 계획법(Dynamic Programming)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/dp.md)
 
+* [그리디 알고리즘(Greedy Algorithm)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/greedy.md)
+
 * [Linked List](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/linked_list.md)
 
 * [Stack](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/stack.md)
