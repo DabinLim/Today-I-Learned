@@ -30,6 +30,8 @@
 
 * [First week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
 
+* [Second week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
+
 ### Java Sript
 
 ### Python
