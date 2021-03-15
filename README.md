@@ -20,6 +20,9 @@
 
 * [그리디 알고리즘(Greedy Algorithm)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/greedy.md)
 
+* [분할정복법(Divide and Conquer)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/divide_and_conquer.md)
+
+
 * [Linked List](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/linked_list.md)
 
 * [Stack](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/stack.md)
@@ -48,6 +51,8 @@
 ### Baek Jun
 
 * [BaekJun 10869](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem10869.md)
+
+* [BaekJun 2630](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem2630.md)
 
 * [BaekJun 1110](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem1110.md)
 
