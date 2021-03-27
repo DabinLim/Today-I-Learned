@@ -37,11 +37,27 @@
 
 * [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
 
+
+### Web
+
+* [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
+
+* [Jwt, OAuth2.0](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/JWT.md)
+
+
 ### Java Sript
 
+* [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/Promise.md)
+
+* [Prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/Prototype.md)
+
+
 ### Python
+
 * [map() 함수](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/map().md)
+
 * [set 자료형](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/set.md)
+
 
 ### React
 
