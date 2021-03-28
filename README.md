@@ -37,6 +37,7 @@
 
 * [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
 
+* [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
 
 ### Web
 
