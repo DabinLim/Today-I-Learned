@@ -37,13 +37,15 @@
 
 * [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
 
-* [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
+* [Fourth week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
 
 ### Web
 
 * [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
 
 * [Jwt, OAuth2.0](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/JWT.md)
+
+* [SEO](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/SEO.md)
 
 
 ### Java Sript
@@ -65,6 +67,10 @@
 * [nvm 설치](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nvm_설치.md)
 
 * [JSX](https://github.com/DabinLim/Today-I-Learned/blob/master/React/jsx.md)
+
+* [webVitals(성능지표 확인)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/webVitals.md)
+
+* [렌더링 횟수 줄이기 (memo)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/렌더링_횟수_줄이기.md)
 
 ### Data Base
 
