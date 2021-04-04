@@ -19,6 +19,8 @@
 
 * [LogBook (항해일지)](https://github.com/DabinLim/logBook)
 
+* [Clone_Coding (인스타그램)](https://github.com/DabinLim/Clone_coding)
+
 
 
 ### Algorithm
@@ -42,13 +44,15 @@
 
 ### Sparta Coding Club (Weekly I Learned)
 
-* [First week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
+* [1st week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
 
-* [Second week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
+* [2nd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
 
-* [Third week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
+* [3rd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
 
-* [Fourth week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
+* [4th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
+
+* [5th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/5th_week_memoir.md)
 
 ### Web
 
