@@ -56,6 +56,8 @@
 
 * [6th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/6th_week_memoir.md)
 
+* [7th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/7th_week_memoir.md)
+
 ### Web
 
 * [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
@@ -88,6 +90,12 @@
 * [webVitals(성능지표 확인)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/webVitals.md)
 
 * [렌더링 횟수 줄이기 (memo)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/렌더링_횟수_줄이기.md)
+
+### Node.js
+
+* [jsonwebtoken](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/jsonwebtoken.md)
+
+* [WebSocket](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/WebSocket.md)
 
 ### Data Base
 
