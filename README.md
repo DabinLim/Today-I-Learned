@@ -58,6 +58,8 @@
 
 * [7th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/7th_week_memoir.md)
 
+* [8th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/8th_week_memoir.md)
+
 ### Web
 
 * [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
