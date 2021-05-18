@@ -62,6 +62,8 @@
 
 * [9th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/9th_week_memoir.md)
 
+* [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
+
 ### Web
 
 * [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
@@ -94,6 +96,8 @@
 * [webVitals(성능지표 확인)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/webVitals.md)
 
 * [렌더링 횟수 줄이기 (memo)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/렌더링_횟수_줄이기.md)
+
+* [Redux_toolkit](https://github.com/DabinLim/Today-I-Learned/blob/master/React/redux_toolkit.md)
 
 ### Node.js
 
