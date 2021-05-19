@@ -27,7 +27,9 @@
 - 제목과 버전, 설명 아이콘들을 설정해준다음 빌드한다.
 - 빌드된 파일을 크롬 익스텐션 관리 탭에서 개발자모드를 활성화 하고 업로드한다.
 <img src='https://user-images.githubusercontent.com/77574867/118772581-e201d500-b8be-11eb-932d-5a96ce6e58b1.png' width='400px'>
+
 <br>
+
 - 위와 같은 에러를 마주한다.
 - hash 값을 복사해 content_security_policy의 해시값에 붙여넣는다.
 - 다시 업로드한다.
@@ -44,7 +46,9 @@ INLINE_RUNTIME_CHUNK = false
 
 chrome 웹스토어의 오른쪽 상단 프로필을 보면
 <img src='https://user-images.githubusercontent.com/77574867/118773553-ed093500-b8bf-11eb-9b24-d513a33091d1.png'>
+
 <br>
+
 개발자 대시보드가 있다.<br>
 개발자 대시보드에 들어가 새 항목을 추가하고 크롬에서 요구하는 설명, 이메일, $5, 스크린샷, 아이콘 이미지 등을 추가하고 제출하면 검수후에 웹스토어에 게시된다.<br>
 
