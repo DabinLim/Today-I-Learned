@@ -13,6 +13,8 @@
 
 ### Projects
 
+* [생각낙서](https://github.com/DabinLim/mind_bookshelf)
+
 * [Beenstgrm_React (미니 SNS)](https://github.com/DabinLim/Beenstgrm_React/tree/master/image_comunity)
 
 * [Calendar_React (일정관리)](https://github.com/DabinLim/Sparta_React_Calendar/tree/master/calendar)
