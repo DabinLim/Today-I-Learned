@@ -78,6 +78,8 @@
 
 * [SEO](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/SEO.md)
 
+* [객체지향 프로그래밍 (OOP)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/OOP.md)
+
 * [Chrome Extension CRA로 출시하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ChromeExtension.md)
 
 
@@ -97,6 +99,8 @@
 
 ### React
 
+* [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
+
 * [nvm 설치](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nvm_설치.md)
 
 * [JSX](https://github.com/DabinLim/Today-I-Learned/blob/master/React/jsx.md)
@@ -108,6 +112,8 @@
 * [Redux_toolkit](https://github.com/DabinLim/Today-I-Learned/blob/master/React/redux_toolkit.md)
 
 * [무한스크롤 (Infinity Scroll)](https://github.com/DabinLim/Today-I-Learned/blob/master/React/InfinityScroll.md)
+
+* [Axios](https://github.com/DabinLim/Today-I-Learned/blob/master/React/Axios.md)
 
 ### Node.js
 
