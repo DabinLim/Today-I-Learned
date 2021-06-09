@@ -1,11 +1,6 @@
-# Today I Learned
+# 개발일지
 
 * 차근차근 공부한 내용을 기록으로 남긴다.
-
-
-<!-- ## 작성 규칙 -->
-
-
 
 
 ## 분류
@@ -126,7 +121,11 @@
 ### Git
 * [commit message](https://github.com/DabinLim/Today-I-Learned/blob/master/Git/commit_message.md)
 
-### Baek Jun
+
+<details>
+
+<summary>Baek Jun</summary>
+<div>       
 
 * [BaekJun 10869](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem10869.md)
 
@@ -139,4 +138,5 @@
 * [BaekJun 4673](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem4673.md)
 
 * [BeakJun 1157](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem1157.md)
-
+</div>
+</details>
