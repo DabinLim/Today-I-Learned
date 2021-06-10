@@ -55,7 +55,7 @@
 * [Chrome Extension CRA로 출시하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ChromeExtension.md)
 
 
-### Java Sript
+### Java Script
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/Promise.md)
 
@@ -65,6 +65,23 @@
 
 * [this](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/this.md)
 
+### Type Script
+
+* [Type Alias](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/alias.md)
+
+* [Union](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/union.md)
+
+* [Intersection](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/intersection.md)
+
+* [타입 지정](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/settype.md)
+
+* [Inference](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/inference.md)
+
+* [Enum](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/enum.md)
+
+* [Assertions](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/assertions.md)
+
+* [Why Type Script?](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/typescript.md)
 
 ### Python
 
