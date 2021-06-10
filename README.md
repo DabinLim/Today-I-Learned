@@ -86,6 +86,8 @@
 
 * [이벤트 위임](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/event_delegation.md)
 
+* [this](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/this.md)
+
 
 ### Python
 
