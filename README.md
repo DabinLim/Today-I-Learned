@@ -41,29 +41,6 @@
 
 * [Queue](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/queue.md)
 
-### Sparta Coding Club (Weekly I Learned)
-
-* [1st week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
-
-* [2nd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
-
-* [3rd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
-
-* [4th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
-
-* [5th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/5th_week_memoir.md)
-
-* [6th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/6th_week_memoir.md)
-
-* [7th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/7th_week_memoir.md)
-
-* [8th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/8th_week_memoir.md)
-
-* [9th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/9th_week_memoir.md)
-
-* [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
-
-* [13th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/13th_week_memoir.md)
 
 ### Web
 
@@ -126,7 +103,30 @@
 * [commit message](https://github.com/DabinLim/Today-I-Learned/blob/master/Git/commit_message.md)
 
 
-<details>
+### Sparta Coding Club (Weekly I Learned)
+
+* [1st week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
+
+* [2nd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
+
+* [3rd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
+
+* [4th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
+
+* [5th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/5th_week_memoir.md)
+
+* [6th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/6th_week_memoir.md)
+
+* [7th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/7th_week_memoir.md)
+
+* [8th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/8th_week_memoir.md)
+
+* [9th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/9th_week_memoir.md)
+
+* [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
+
+* [13th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/13th_week_memoir.md)
+
 
 <summary>Baek Jun</summary>
 <div>       
