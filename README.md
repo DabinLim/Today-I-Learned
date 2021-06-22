@@ -108,6 +108,8 @@
 
 * [Axios](https://github.com/DabinLim/Today-I-Learned/blob/master/React/Axios.md)
 
+* [Next.js 시작하기 및 링크](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nextjsrouting.md)
+
 ### Node.js
 
 * [jsonwebtoken](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/jsonwebtoken.md)
