@@ -1,10 +1,17 @@
 # 개발일지
 
 * 차근차근 공부한 내용을 기록으로 남긴다.
+* 오늘 공부한 내용을 간략하게 남기고 정리된 내용을 블로그에 남긴다.
 
+### 2022-08
 
-## 분류
+#### 2022-08-27
+* [webpack, babel, typescript](https://github.com/DabinLim/Today-I-Learned/blob/master/2022-08/2022-08-27.md)
 
+<br/>
+<details>
+<summary>2021</summary>
+<div markdown="1">
 
 ### Projects
 
@@ -85,13 +92,6 @@
 
 * [Why Type Script?](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/typescript.md)
 
-### Python
-
-* [map() 함수](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/map().md)
-
-* [set 자료형](https://github.com/DabinLim/Today-I-Learned/blob/master/Python/set.md)
-
-
 ### React
 
 * [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
@@ -117,8 +117,6 @@
 * [jsonwebtoken](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/jsonwebtoken.md)
 
 * [WebSocket](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/WebSocket.md)
-
-### Data Base
 
 ### Git
 * [commit message](https://github.com/DabinLim/Today-I-Learned/blob/master/Git/commit_message.md)
@@ -147,21 +145,5 @@
 * [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
 
 * [13th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/13th_week_memoir.md)
-
-
-<summary>Baek Jun</summary>
-<div>       
-
-* [BaekJun 10869](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem10869.md)
-
-* [BaekJun 2630](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem2630.md)
-
-* [BaekJun 1110](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem1110.md)
-
-* [BeakJun 4344](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem4344.md)
-
-* [BaekJun 4673](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem4673.md)
-
-* [BeakJun 1157](https://github.com/DabinLim/Today-I-Learned/blob/master/BaekJun/problem1157.md)
 </div>
 </details>
