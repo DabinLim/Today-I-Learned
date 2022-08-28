@@ -3,33 +3,15 @@
 * 차근차근 공부한 내용을 기록으로 남긴다.
 * 오늘 공부한 내용을 간략하게 남기고 정리된 내용을 블로그에 남긴다.
 
-### 2022-08
+### Development
 
-#### 2022-08-27
-* [webpack, babel, typescript](https://github.com/DabinLim/Today-I-Learned/blob/master/2022-08/2022-08-27.md)
+* [웹 개발을 설계하며 고려해야 할 부분](https://github.com/DabinLim/development/design-web.md)
 
 <br/>
 <details>
-<summary>2021</summary>
+<summary>Algorithm</summary>
 <div markdown="1">
 
-### Projects
-
-* [생각낙서](https://github.com/DabinLim/mind_bookshelf)
-
-* [Beenstgrm_React (미니 SNS)](https://github.com/DabinLim/Beenstgrm_React/tree/master/image_comunity)
-
-* [Calendar_React (일정관리)](https://github.com/DabinLim/Sparta_React_Calendar/tree/master/calendar)
-
-* [LogBook (항해일지)](https://github.com/DabinLim/logBook)
-
-* [Clone_Coding (인스타그램)](https://github.com/DabinLim/Clone_coding)
-
-* [Hanghae_House (Chat App)](https://github.com/DabinLim/Hanghaehouse_front)
-
-
-
-### Algorithm
 * [알고리즘이란? <br>(시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
 
 
@@ -48,8 +30,13 @@
 
 * [Queue](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/queue.md)
 
+</div>
+</details>
 
-### Web
+<br/>
+<details>
+<summary>Web</summary>
+<div markdown="1">
 
 * [HTML이 그려지는 과정](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/Url입력.md)
 
@@ -63,36 +50,47 @@
 
 * [Chrome Extension CRA로 출시하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ChromeExtension.md)
 
+</div>
+</details>
 
-### Java Script
+<br/>
+<details>
+<summary>Java Script / Type Script</summary>
+<div markdown="1">
 
-* [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/Promise.md)
+* [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
 
-* [Prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/Prototype.md)
+* [Prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
-* [이벤트 위임](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/event_delegation.md)
+* [이벤트 위임](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event_delegation.md)
 
-* [this](https://github.com/DabinLim/Today-I-Learned/blob/master/JavaScript/this.md)
+* [this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
 
-### Type Script
+* [Type Alias](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/alias.md)
 
-* [Type Alias](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/alias.md)
+* [Union](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/union.md)
 
-* [Union](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/union.md)
+* [Intersection](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/intersection.md)
 
-* [Intersection](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/intersection.md)
+* [타입 지정](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/settype.md)
 
-* [타입 지정](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/settype.md)
+* [Inference](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/inference.md)
 
-* [Inference](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/inference.md)
+* [Enum](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/enum.md)
 
-* [Enum](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/enum.md)
+* [Assertions](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/assertions.md)
 
-* [Assertions](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/assertions.md)
+* [Why Type Script?](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/typescript.md)
 
-* [Why Type Script?](https://github.com/DabinLim/Today-I-Learned/blob/master/TypeScript/typescript.md)
+* [webpack, babel, typescript](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/webpack.md)
 
-### React
+</div>
+</details>
+
+<br/>
+<details>
+<summary>React</summary>
+<div markdown="1">
 
 * [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
 
@@ -112,6 +110,14 @@
 
 * [Next.js 시작하기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nextjstutorial.md)
 
+</div>
+</details>
+
+<br/>
+<details>
+<summary>Node.js</summary>
+<div markdown="1">
+
 ### Node.js
 
 * [jsonwebtoken](https://github.com/DabinLim/Today-I-Learned/blob/master/Node.js/jsonwebtoken.md)
@@ -121,6 +127,13 @@
 ### Git
 * [commit message](https://github.com/DabinLim/Today-I-Learned/blob/master/Git/commit_message.md)
 
+</div>
+</details>
+
+<br/>
+<details>
+<summary>ETC</summary>
+<div markdown="1">
 
 ### Sparta Coding Club (Weekly I Learned)
 
@@ -145,5 +158,25 @@
 * [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
 
 * [13th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/13th_week_memoir.md)
+</div>
+</details>
+
+<br/>
+<details>
+<summary>Project</summary>
+<div markdown="1">
+
+* [생각낙서](https://github.com/DabinLim/mind_bookshelf)
+
+* [Beenstgrm_React (미니 SNS)](https://github.com/DabinLim/Beenstgrm_React/tree/master/image_comunity)
+
+* [Calendar_React (일정관리)](https://github.com/DabinLim/Sparta_React_Calendar/tree/master/calendar)
+
+* [LogBook (항해일지)](https://github.com/DabinLim/logBook)
+
+* [Clone_Coding (인스타그램)](https://github.com/DabinLim/Clone_coding)
+
+* [Hanghae_House (Chat App)](https://github.com/DabinLim/Hanghaehouse_front)
+
 </div>
 </details>
