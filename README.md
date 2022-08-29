@@ -5,7 +5,9 @@
 
 ### Development
 
-* [웹 개발을 설계하며 고려해야 할 부분](https://github.com/DabinLim/development/design-web.md)
+* [웹 개발을 설계하며 고려해야 할 부분](https://github.com/DabinLim/Today-I-Learned/blob/master/development/design-web.md)
+
+* [개발자의 자세](https://github.com/DabinLim/Today-I-Learned/blob/master/development/dev-attitude.md)
 
 <br/>
 <details>
