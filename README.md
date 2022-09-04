@@ -94,6 +94,8 @@
 <summary>React</summary>
 <div markdown="1">
 
+* [리액트 기본 아키텍쳐 구현해보기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/react-architecture.md)
+
 * [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
 
 * [nvm 설치](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nvm_설치.md)
