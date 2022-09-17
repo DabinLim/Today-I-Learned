@@ -62,7 +62,7 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
-* [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event_flow.md)
+* [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
 
