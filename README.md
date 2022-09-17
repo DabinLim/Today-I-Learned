@@ -62,11 +62,11 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event_flow.md)
+
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
 
 * [Prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
-
-* [이벤트 위임](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event_delegation.md)
 
 * [this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
 
