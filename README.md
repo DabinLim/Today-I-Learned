@@ -66,6 +66,8 @@
 
 * [호이스팅](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/hoisting.md)
 
+* [스코프체인과 즉시실행함수](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/scope-chain.md)
+
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
