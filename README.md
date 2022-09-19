@@ -62,6 +62,10 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [Temporal Dead Zone (TDZ)](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tdz.md)
+
+* [호이스팅](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/hoisting.md)
+
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
