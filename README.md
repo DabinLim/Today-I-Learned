@@ -62,6 +62,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [자바스크립트에서 옵저빙을 구현하는 방법들](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/observing.md)
+
 * [실행 컨텍스트와 클로저](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/context.md)
 
 * [Temporal Dead Zone (TDZ)](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tdz.md)
