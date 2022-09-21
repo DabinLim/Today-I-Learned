@@ -72,6 +72,8 @@
 
 * [스코프체인과 즉시실행함수](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/scope-chain.md)
 
+* [reduce()](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/reduce.md)
+
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
