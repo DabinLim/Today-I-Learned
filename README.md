@@ -11,34 +11,10 @@
 
 <br/>
 <details>
-<summary>Algorithm</summary>
-<div markdown="1">
-
-* [알고리즘이란? <br>(시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
-
-
-* [재귀함수(Recursion)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursion.md)
-
-* [동적 계획법(Dynamic Programming)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/dp.md)
-
-* [그리디 알고리즘(Greedy Algorithm)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/greedy.md)
-
-* [분할정복법(Divide and Conquer)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/divide_and_conquer.md)
-
-
-* [Linked List](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/linked_list.md)
-
-* [Stack](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/stack.md)
-
-* [Queue](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/queue.md)
-
-</div>
-</details>
-
-<br/>
-<details>
 <summary>Web</summary>
 <div markdown="1">
+
+* [SSL(Secure Socket Layer) 또는 TLS(Transport Layer Security)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ssl.md)
 
 * [웹 접근성과 시맨틱 마크업](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/web-accessibility.md)
 
@@ -146,6 +122,32 @@
 
 ### Git
 * [commit message](https://github.com/DabinLim/Today-I-Learned/blob/master/Git/commit_message.md)
+
+</div>
+</details>
+
+<br/>
+<details>
+<summary>Algorithm</summary>
+<div markdown="1">
+
+* [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
+
+
+* [재귀함수(Recursion)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursion.md)
+
+* [동적 계획법(Dynamic Programming)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/dp.md)
+
+* [그리디 알고리즘(Greedy Algorithm)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/greedy.md)
+
+* [분할정복법(Divide and Conquer)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/divide_and_conquer.md)
+
+
+* [Linked List](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/linked_list.md)
+
+* [Stack](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/stack.md)
+
+* [Queue](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/queue.md)
 
 </div>
 </details>
