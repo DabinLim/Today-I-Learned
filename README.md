@@ -108,6 +108,11 @@
 
 * [Next.js 시작하기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nextjstutorial.md)
 
+* [Next.js Pre rendering, Data fetching](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nextprerender.md)
+
+* [Next.js Routing](https://github.com/DabinLim/Today-I-Learned/blob/master/React/next-routing.md)
+
+
 </div>
 </details>
 
