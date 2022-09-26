@@ -46,6 +46,8 @@
 
 * [arrow function과 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/arrow-function.md)
   
+* [call, apply, bind](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/call-apply-bind.md)
+
 * [Temporal Dead Zone (TDZ)](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tdz.md)
 
 * [호이스팅](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/hoisting.md)
