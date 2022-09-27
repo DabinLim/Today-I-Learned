@@ -42,6 +42,8 @@
 
 * [실행 컨텍스트와 클로저](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/context.md)
 
+* [Currying 과 Partial application](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/currying.md)
+
 * [자바스크립트의 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
 
 * [arrow function과 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/arrow-function.md)
