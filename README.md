@@ -42,6 +42,8 @@
 
 * [실행 컨텍스트와 클로저](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/context.md)
 
+* [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/prototype.md)
+
 * [자바스크립트의 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
 
 * [arrow function과 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/arrow-function.md)
@@ -59,8 +61,6 @@
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
-
-* [Prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
 * [Type Alias](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/alias.md)
 
@@ -161,36 +161,6 @@
 </div>
 </details>
 
-<br/>
-<details>
-<summary>ETC</summary>
-<div markdown="1">
-
-### Sparta Coding Club (Weekly I Learned)
-
-* [1st week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/first_week_memoir.md)
-
-* [2nd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/second_week_memoir.md)
-
-* [3rd week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/third_week_memoir.md)
-
-* [4th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/fourth_week_memoir.md)
-
-* [5th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/5th_week_memoir.md)
-
-* [6th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/6th_week_memoir.md)
-
-* [7th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/7th_week_memoir.md)
-
-* [8th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/8th_week_memoir.md)
-
-* [9th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/9th_week_memoir.md)
-
-* [11th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/11th_week_memoir.md)
-
-* [13th week memoir](https://github.com/DabinLim/Today-I-Learned/blob/master/Sparta_Coding_Club/13th_week_memoir.md)
-</div>
-</details>
 
 <br/>
 <details>
@@ -199,15 +169,7 @@
 
 * [생각낙서](https://github.com/DabinLim/mind_bookshelf)
 
-* [Beenstgrm_React (미니 SNS)](https://github.com/DabinLim/Beenstgrm_React/tree/master/image_comunity)
-
-* [Calendar_React (일정관리)](https://github.com/DabinLim/Sparta_React_Calendar/tree/master/calendar)
-
-* [LogBook (항해일지)](https://github.com/DabinLim/logBook)
-
 * [Clone_Coding (인스타그램)](https://github.com/DabinLim/Clone_coding)
-
-* [Hanghae_House (Chat App)](https://github.com/DabinLim/Hanghaehouse_front)
 
 </div>
 </details>
