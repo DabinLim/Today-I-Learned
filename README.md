@@ -3,11 +3,20 @@
 * 차근차근 공부한 내용을 기록으로 남긴다.
 * 오늘 공부한 내용을 간략하게 남기고 정리된 내용을 블로그에 남긴다.
 
-### Development
+<br/>
+<details>
+<summary>Development</summary>
+<div markdown="1">
 
 * [웹 개발을 설계하며 고려해야 할 부분](https://github.com/DabinLim/Today-I-Learned/blob/master/development/design-web.md)
 
 * [개발자의 자세](https://github.com/DabinLim/Today-I-Learned/blob/master/development/dev-attitude.md)
+
+* [SOLID 원칙](https://github.com/DabinLim/Today-I-Learned/blob/master/development/solid.md)
+
+
+</div>
+</details>
 
 <br/>
 <details>
