@@ -9,6 +9,8 @@
 
 * [개발자의 자세](https://github.com/DabinLim/Today-I-Learned/blob/master/development/dev-attitude.md)
 
+* [객체지향 프로그래밍 (OOP)](https://github.com/DabinLim/Today-I-Learned/blob/master/development/oop.md)
+
 <br/>
 <details>
 <summary>Web</summary>
@@ -25,8 +27,6 @@
 * [Jwt, OAuth2.0](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/JWT.md)
 
 * [SEO](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/SEO.md)
-
-* [객체지향 프로그래밍 (OOP)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/OOP.md)
 
 * [Chrome Extension CRA로 출시하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ChromeExtension.md)
 
