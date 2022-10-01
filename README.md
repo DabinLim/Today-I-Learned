@@ -28,6 +28,8 @@
 
 * [SSL(Secure Socket Layer) 또는 TLS(Transport Layer Security)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ssl.md)
 
+* [Web Application Server](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/was.md)
+
 * [웹 접근성과 시맨틱 마크업](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/web-accessibility.md)
 
 * [HTML이 그려지는 과정](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/Url입력.md)
