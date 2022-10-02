@@ -106,6 +106,8 @@
 
 * [리덕스 기본 아키텍쳐 구현해보기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/redux-architecture.md)
 
+* [제어 컴포넌트](https://github.com/DabinLim/Today-I-Learned/blob/master/React/controlled-component.md)
+
 * [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
 
 * [nvm 설치](https://github.com/DabinLim/Today-I-Learned/blob/master/React/nvm_설치.md)
