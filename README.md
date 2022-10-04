@@ -27,7 +27,7 @@
 
 * [SSL(Secure Socket Layer) 또는 TLS(Transport Layer Security)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ssl.md)
 
-* [dns](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/dns.md)
+* [DNS (Domain Name System),  브라우저 주소창에 url 입력시 일어나는 일](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/dns.md)
 
 * [Web Application Server](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/was.md)
 
