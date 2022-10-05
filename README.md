@@ -72,6 +72,8 @@
 
 * [reduce()](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/reduce.md)
 
+* [copyWithin](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/copyWithin.md)
+
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
 
 * [Promise](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Promise.md)
