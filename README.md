@@ -19,7 +19,6 @@
 
 </div>
 </details>
->>>>>>> 0e20d583171458290e9a70d7b0a15464786d2958
 
 <br/>
 <details>
@@ -28,11 +27,13 @@
 
 * [SSL(Secure Socket Layer) 또는 TLS(Transport Layer Security)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/ssl.md)
 
+* [DNS (Domain Name System),  브라우저 주소창에 url 입력시 일어나는 일](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/dns.md)
+
 * [Web Application Server](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/was.md)
 
 * [웹 접근성과 시맨틱 마크업](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/web-accessibility.md)
 
-* [HTML이 그려지는 과정](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/Url입력.md)
+* [HTML이 그려지는 과정](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/browser-rendering.md)
 
 * [웹 저장소](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/웹저장소.md)
 
