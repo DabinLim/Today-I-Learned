@@ -16,6 +16,8 @@
   
 * [SOLID 원칙](https://github.com/DabinLim/Today-I-Learned/blob/master/development/solid.md)
 
+* [디자인 패턴의 종류](https://github.com/DabinLim/Today-I-Learned/blob/master/development/design-patterns.md)
+
 
 </div>
 </details>
