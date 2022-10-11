@@ -35,6 +35,8 @@
 
 * [CSSOM](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cssom.md)
 
+* [inline, block element](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/inline-block.md)
+
 * [메타 태그](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/meta-tag.md)
 
 * [Cascading Rules](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cascading-rules.md)
