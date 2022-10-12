@@ -37,6 +37,8 @@
 
 * [inline, block element](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/inline-block.md)
 
+* [콘텐츠 모델 (HTML5의 카테고리)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/contents-model.md)
+
 * [메타 태그](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/meta-tag.md)
 
 * [Cascading Rules](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cascading-rules.md)
