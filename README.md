@@ -127,6 +127,8 @@
 
 * [리액트 렌더링 최적화](https://github.com/DabinLim/Today-I-Learned/blob/master/React/react-render-optimization.md)
 
+* [Portals](https://github.com/DabinLim/Today-I-Learned/blob/master/React/portals.md)
+
 * [제어 컴포넌트](https://github.com/DabinLim/Today-I-Learned/blob/master/React/controlled-component.md)
 
 * [리액트를 사용하는 이유](https://github.com/DabinLim/Today-I-Learned/blob/master/React/WhyReact.md)
