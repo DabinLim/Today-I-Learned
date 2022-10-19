@@ -69,7 +69,7 @@
 
 * [실행 컨텍스트와 클로저](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/context.md)
 
-* [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/prototype.md)
+* [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
 * [Currying 과 Partial application](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/currying.md)
 
@@ -130,6 +130,8 @@
 * [Portals](https://github.com/DabinLim/Today-I-Learned/blob/master/React/portals.md)
 
 * [제어 컴포넌트](https://github.com/DabinLim/Today-I-Learned/blob/master/React/controlled-component.md)
+
+* [React의 Context Api](https://github.com/DabinLim/Today-I-Learned/blob/master/React/react-context.md)
 
 * [React.Fragment](https://github.com/DabinLim/Today-I-Learned/blob/master/React/fragment.md)
 
