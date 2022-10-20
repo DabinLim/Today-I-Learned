@@ -33,6 +33,8 @@
 
 * [DNS (Domain Name System),  브라우저 주소창에 url 입력시 일어나는 일](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/dns.md)
 
+* [CORS (Cross-Origin Resource Sharing)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cors.md)
+
 * [CSSOM](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cssom.md)
 
 * [inline, block element](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/inline-block.md)
