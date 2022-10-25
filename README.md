@@ -89,6 +89,8 @@
 
 * [reduce()](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/reduce.md)
 
+* [every()와 some()](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/every-some.md)
+
 * [copyWithin](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/copyWithin.md)
 
 * [이벤트 플로우](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/event-flow.md)
