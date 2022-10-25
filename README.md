@@ -77,6 +77,12 @@
 
 * [자바스크립트의 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
 
+* [Symbol](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/symbol.md)
+
+* [이터레이터, 이터러블](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/iterator.md)
+
+* [제너레이터](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/generator.md)
+
 * [arrow function과 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/arrow-function.md)
   
 * [call, apply, bind](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/call-apply-bind.md)
