@@ -73,6 +73,8 @@
 
 * [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
+* [트리쉐이킹](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tree-shaking.md)
+
 * [Currying 과 Partial application](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/currying.md)
 
 * [자바스크립트의 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
