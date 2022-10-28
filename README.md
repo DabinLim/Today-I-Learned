@@ -75,6 +75,8 @@
 
 * [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
+* [트리쉐이킹](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tree-shaking.md)
+
 * [Currying 과 Partial application](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/currying.md)
 
 * [자바스크립트의 this](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/this.md)
@@ -132,6 +134,8 @@
 <div markdown="1">
 
 * [useState의 동작원리](https://github.com/DabinLim/Today-I-Learned/blob/master/React/useState.md)
+
+* [코드 스플리팅](https://github.com/DabinLim/Today-I-Learned/blob/master/React/code-splitting.md)
 
 * [리액트 기본 아키텍쳐 구현해보기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/react-architecture.md)
 
