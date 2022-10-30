@@ -67,6 +67,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [CJS, EMS](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/cjs-esm.md)
+
 * [자바스크립트에서 옵저빙을 구현하는 방법들](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/observing.md)
 
 * [any와 unknown의 차이](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
