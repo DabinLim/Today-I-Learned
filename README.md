@@ -137,6 +137,8 @@
 
 * [useState의 동작원리](https://github.com/DabinLim/Today-I-Learned/blob/master/React/useState.md)
 
+* [Intersection Observer](https://github.com/DabinLim/Today-I-Learned/blob/master/React/intersection-observer.md)
+
 * [코드 스플리팅](https://github.com/DabinLim/Today-I-Learned/blob/master/React/code-splitting.md)
 
 * [리액트 기본 아키텍쳐 구현해보기](https://github.com/DabinLim/Today-I-Learned/blob/master/React/react-architecture.md)
