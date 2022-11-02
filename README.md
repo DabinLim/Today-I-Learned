@@ -75,6 +75,8 @@
 
 * [실행 컨텍스트와 클로저](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/context.md)
 
+* [requestAnimationFrame](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/raf.md)
+
 * [prototype](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/Prototype.md)
 
 * [트리쉐이킹](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/tree-shaking.md)
