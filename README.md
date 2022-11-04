@@ -35,6 +35,8 @@
 
 * [CORS (Cross-Origin Resource Sharing)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cors.md)
 
+* [Server Sent Event](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/sse.md)
+
 * [CSSOM](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cssom.md)
 
 * [inline, block element](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/inline-block.md)
