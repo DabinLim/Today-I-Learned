@@ -71,6 +71,8 @@
 
 * [싱글톤 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/singleton.md)
 
+* [추상 팩토리 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/abstract-factory.md)
+
 * [CJS, EMS](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/cjs-esm.md)
 
 * [자바스크립트에서 옵저빙을 구현하는 방법들](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/observing.md)
