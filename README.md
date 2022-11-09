@@ -35,6 +35,8 @@
 
 * [CORS (Cross-Origin Resource Sharing)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cors.md)
 
+* [리플로우와 리페인트 최적화](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/reflow-repaint.md)
+
 * [Server Sent Event](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/sse.md)
 
 * [CSSOM](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cssom.md)
