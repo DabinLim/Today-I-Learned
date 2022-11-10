@@ -71,6 +71,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [전략 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/strategy.md)
+
 * [싱글톤 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/singleton.md)
 
 * [추상 팩토리 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/abstract-factory.md)
