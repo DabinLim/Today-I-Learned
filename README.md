@@ -71,6 +71,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [복합체(Composite) 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/composite.md)
+
 * [전략 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/strategy.md)
 
 * [적응자 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/adapter.md)
