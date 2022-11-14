@@ -73,6 +73,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [플라이급 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/fly-weight.md)
+
 * [복합체(Composite) 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/composite.md)
 
 * [전략 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/strategy.md)
