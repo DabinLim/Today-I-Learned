@@ -35,6 +35,8 @@
 
 * [DNS (Domain Name System),  브라우저 주소창에 url 입력시 일어나는 일](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/dns.md)
 
+* [PSSR](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/pssr.md)
+
 * [CORS (Cross-Origin Resource Sharing)](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/cors.md)
 
 * [리플로우와 리페인트 최적화](https://github.com/DabinLim/Today-I-Learned/blob/master/Web/reflow-repaint.md)
@@ -228,7 +230,6 @@
 <div markdown="1">
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
-
 
 * [재귀함수(Recursion)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursion.md)
 
