@@ -75,6 +75,7 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+
 * [플라이급 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/fly-weight.md)
 
 * [복합체(Composite) 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/composite.md)
@@ -84,6 +85,8 @@
 * [적응자 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/adapter.md)
 
 * [싱글톤 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/singleton.md)
+
+* [퍼사드 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/facade.md)
 
 * [추상 팩토리 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/abstract-factory.md)
 
