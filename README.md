@@ -76,6 +76,8 @@
 <div markdown="1">
 
 
+* [프록시 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/proxy.md)
+
 * [플라이급 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/fly-weight.md)
 
 * [복합체(Composite) 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/composite.md)
