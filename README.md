@@ -75,6 +75,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [중재자 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/mediator.md)
+
 * [커맨드 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/command.md)
 
 * [프록시 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/proxy.md)
