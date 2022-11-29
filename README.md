@@ -246,6 +246,8 @@
 
 * [K번쨰 큰 수](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/kth-number.md)
 
+* [졸업 선물](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/graduate-present.md)
+
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
 
 * [재귀함수(Recursion)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursion.md)
