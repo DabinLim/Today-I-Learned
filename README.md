@@ -254,6 +254,12 @@
 
 * [최대 매출](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/maximum-turnover.md)
 
+### 해시
+
+* [학급회장](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/votes.md)
+
+### etc
+
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
 
 * [재귀함수(Recursion)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursion.md)
