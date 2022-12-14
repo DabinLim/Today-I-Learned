@@ -77,6 +77,8 @@
 <summary>Java Script / Type Script</summary>
 <div markdown="1">
 
+* [객체 속성 (writable, enumerable, configurable)](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/object-property.md)
+
 * [중재자 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/mediator.md)
 
 * [커맨드 패턴](https://github.com/DabinLim/Today-I-Learned/blob/master/JS-TS/command.md)
