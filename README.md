@@ -264,6 +264,11 @@
 
 * [모든 아나그램 찾기 (해쉬 + 슬라이딩 윈도우)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/every-anagram.md)
 
+### 스택
+
+* [괄호 문자 제거 (스택)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/remove-bracket.md)
+
+
 ### etc
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
