@@ -268,6 +268,7 @@
 
 * [괄호 문자 제거 (스택)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/remove-bracket.md)
 
+* [카카오 크레인 인형뽑기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/doll-drawing.md)
 
 ### etc
 
