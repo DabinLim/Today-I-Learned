@@ -264,13 +264,15 @@
 
 * [모든 아나그램 찾기 (해쉬 + 슬라이딩 윈도우)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/every-anagram.md)
 
-### 스택
+### 스택, 큐
 
 * [괄호 문자 제거 (스택)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/remove-bracket.md)
 
 * [카카오 크레인 인형뽑기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/doll-drawing.md)
 
 * [후위연산식](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/postfix.md)
+
+* [쇠막대기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/iron-rod.md)
 
 ### etc
 
