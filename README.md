@@ -275,6 +275,8 @@
 * [쇠막대기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/iron-rod.md)
 
 * [공주 구하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/save-princess.md)
+  
+* [교육과정 설계](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/curriculum-design.md)
 
 ### etc
 
