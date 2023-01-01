@@ -285,6 +285,8 @@
 
 * [버블정렬](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/bubble-sort.md)
 
+* [삽입정렬](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/insert-sort.md)
+
 ### etc
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
