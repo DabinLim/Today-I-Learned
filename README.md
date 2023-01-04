@@ -289,6 +289,10 @@
 
 * [LRU (카카오 캐시 변형문제)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/least-recently-used.md)
 
+* [장난꾸러기 짱구](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/zzangu.md)
+
+* [좌표정렬](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/coordinate-alignment.md)
+
 ### etc
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
