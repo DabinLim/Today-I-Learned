@@ -293,6 +293,8 @@
 
 * [좌표정렬](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/coordinate-alignment.md)
 
+* [회의실 배정](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/meeting-room-assignment.md)
+
 ### etc
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
