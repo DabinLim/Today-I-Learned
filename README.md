@@ -295,6 +295,8 @@
 
 * [회의실 배정](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/meeting-room-assignment.md)
 
+* [결혼식](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/wedding.md)
+
 ### etc
 
 * [알고리즘이란? (시간복잡도, 공간복잡도, 점근표기법 개념)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/algorithmis.md)
