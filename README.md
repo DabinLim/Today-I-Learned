@@ -301,6 +301,8 @@
 
 * [이분탐색](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/binary-search.md)
 
+* [뮤직비디오](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/music-video.md)
+
 
 
 ### etc
