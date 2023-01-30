@@ -303,6 +303,8 @@
 
 * [뮤직비디오](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/music-video.md)
 
+* [마구간 정하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/choose-stall.md)
+
 
 
 ### etc
