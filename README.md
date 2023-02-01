@@ -305,12 +305,13 @@
 
 * [마구간 정하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/choose-stall.md)
 
-### 재귀
+### 재귀와 DFS, BFS
 
 * [재귀함수](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursive-function.md)
 
 * [이진수 구하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/binary-recursive.md)
 
+* [이진트리 순회 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/binary-tree-circuit.md)
 
 
 ### etc

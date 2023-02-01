@@ -19,8 +19,8 @@
 
 ## 입력 예시
 
-CBA
-CBDAGE
+- CBA
+- CBDAGE
 
 ## 출력 예시
 
