@@ -315,6 +315,8 @@
 
 * [부분집합 구하기 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/subsets.md)
 
+* [합이 같은 부분집합 (DFS), 아마존 인터뷰](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/same-sum-subsets.md)
+
 
 
 ### etc
