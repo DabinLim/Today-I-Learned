@@ -317,6 +317,8 @@
 
 * [합이 같은 부분집합 (DFS), 아마존 인터뷰](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/same-sum-subsets.md)
 
+* [바둑이 승차 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/same-sum-subsets.md)
+
 
 
 ### etc
