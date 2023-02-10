@@ -319,6 +319,8 @@
 
 * [바둑이 승차 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/same-sum-subsets.md)
 
+* [최대점수 구하기 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/max-score.md)
+
 
 
 ### etc
