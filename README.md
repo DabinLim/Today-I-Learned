@@ -321,6 +321,8 @@
 
 * [최대점수 구하기 (DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/max-score.md)
 
+* [중복 순열 구하기(DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/duplicate-permutation.md)
+
 
 
 ### etc
