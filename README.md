@@ -297,6 +297,8 @@
 
 * [결혼식](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/wedding.md)
 
+* [K번째 수 (프로그래머스 정렬)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/kth-number-sort.md)
+
 ### 이분탐색
 
 * [이분탐색](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/binary-search.md)
