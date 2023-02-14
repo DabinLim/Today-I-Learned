@@ -301,6 +301,8 @@
 
 * [가장 큰 수 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/biggest-number-sort.md)
 
+* [H Index (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/h-index.md)
+
 ### 이분탐색
 
 * [이분탐색](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/binary-search.md)
