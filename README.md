@@ -278,7 +278,9 @@
   
 * [교육과정 설계](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/curriculum-design.md)
 
-* [기능 개발 (프로그래머스 스택)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/develop-feature.md)
+* [기능 개발 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/develop-feature.md)
+
+* [프린터 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/printer.md)
 
 
 ### 정렬
