@@ -282,6 +282,8 @@
 
 * [프린터 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/printer.md)
 
+* [올바른 괄호 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/right-bracket.md)
+
 
 ### 정렬
 
