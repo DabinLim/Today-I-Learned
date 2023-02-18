@@ -284,6 +284,8 @@
 
 * [올바른 괄호 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/right-bracket.md)
 
+* [다리를 지나는 트럭 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/truck.md)
+
 
 ### 정렬
 
