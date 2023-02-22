@@ -270,6 +270,8 @@
 
 * [위장 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/camouflage.md)
 
+* [베스트 앨범 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/best-album.md)
+
 ### 스택, 큐
 
 * [괄호 문자 제거 (스택)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/remove-bracket.md)
