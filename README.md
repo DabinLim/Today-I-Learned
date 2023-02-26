@@ -345,7 +345,9 @@
 
 * [중복 순열 구하기(DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/duplicate-permutation.md)
 
-* [네트워크(DFS)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/network.md)
+* [타겟 넘버 (DFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/duplicate-permutation.md)
+
+* [네트워크 (DFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/target-number.md)
 
 
 
