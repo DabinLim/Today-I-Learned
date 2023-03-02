@@ -349,7 +349,9 @@
 
 * [네트워크 (DFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/target-number.md)
 
-* [단어변환 (DFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/translate-word.md)
+* [단어변환 (BFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/translate-word.md)
+
+* [여행경로 (DFS, 프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/travel-route.md)
 
 
 
