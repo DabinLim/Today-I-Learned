@@ -241,6 +241,9 @@
 <summary>Algorithm</summary>
 <div markdown="1">
 
+### 완전탐색
+
+* [최소 직사각형 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/min-rectangle.md)
 
 ### 브루트 포스
 
