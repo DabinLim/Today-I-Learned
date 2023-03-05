@@ -245,6 +245,8 @@
 
 * [최소 직사각형 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/min-rectangle.md)
 
+* [피로도 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/fatigue.md)
+
 ### 브루트 포스
 
 * [뒤집은 소수](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/reverse-prime-number.md)
