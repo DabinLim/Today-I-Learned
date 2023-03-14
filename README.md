@@ -334,6 +334,11 @@
 
 * [마구간 정하기](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/choose-stall.md)
 
+
+### 다이나믹 프로그래밍
+
+* [N으로 포현 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/express-n.md)
+
 ### 재귀와 DFS, BFS
 
 * [재귀함수](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/recursive-function.md)
