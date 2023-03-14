@@ -249,6 +249,8 @@
 
 * [소수 찾기 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/find-prime-number.md)
 
+* [모의고사 (프로그래머스)](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/give-up-math.md)
+
 ### 브루트 포스
 
 * [뒤집은 소수](https://github.com/DabinLim/Today-I-Learned/blob/master/Algorithm/reverse-prime-number.md)
