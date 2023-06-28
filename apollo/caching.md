@@ -122,3 +122,24 @@ persistCache({
 - cache.resetStore
   - 로그아웃시 캐시 리셋
   - clearStore을 사용해야 refetch를 안한다
+  - onResetStore을 통해 resetStore의 콜백 지정 가능
+    - 여러번 지정 가능 콜백은 배열에 저장
+    - default value를 넣기 위해 사용 가능
+  - 리액트 컴포넌트에서 onResetStore을 호출해 리렌더링 가능
+
+
+### TypePolicy inheritance
+
+- possibleTypes 덕분에 스키마 상하위 유형을 알고 있어 추가 구성이 필요없다
+- 상위 유형의 keyFields, field policies를 상속 받고 하위 유형은 필요한대로 재구성 가능
+
+
+### Refetching queries after a mutation
+refetch 기능
+
+### Cache redirects
+
+- 상세 페이지 접근시 중복 쿼리 방지 가능
+- field policy의 read function 사용
+- toReference 헬퍼 함수를 통해 가능
+- 존재하지 않는 경우 쿼리 실행
