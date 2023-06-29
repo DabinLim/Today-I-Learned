@@ -36,26 +36,6 @@
 Note: If you apply the @client directive to a field with subfields, the directive is automatically applied to all subfields.
 
 
-@client - local-only
-
-```js
-const cache = new InMemoryCache({
-  typePolicies: { // Type policy map
-    Product: {
-      fields: { // Field policy map for the Product type
-        isInCart: { // Field policy for the isInCart field
-          read(_, { variables }) { // The read function for the isInCart field
-            return localStorage.getItem('CART').includes(
-              variables.productId
-            );
-          }
-        }
-      }
-    }
-  }
-});
-```
-
 ### Reactive 변수에 대한 설명으로 틀린 것은?
 2번
 
