@@ -1,5 +1,3 @@
-type OrganizationType = { name: string; country: string };
-
 const organization = { name: "Dabin Lim", country: "Korea" };
 
 // 1. 간단한 캡슐화
@@ -14,10 +12,10 @@ console.log(getRawDataOfOrganization().name);
 // 1-2. class로 캡슐화
 
 class Organization {
-  private _name: string;
-  private _country: string;
+  _name;
+  _country;
 
-  constructor(data: OrganizationType) {
+  constructor(data) {
     this._name = data.name;
     this._country = data.country;
   }
@@ -26,7 +24,7 @@ class Organization {
     return this._name;
   }
 
-  set name(name: string) {
+  set name(name) {
     this._name = name;
   }
 }
@@ -41,7 +39,7 @@ console.log(classOrganization.name);
 // 2. 중첩된 레코드 캡슐화하기
 
 const customers = {
-  "1": {
+  1: {
     name: "Dabin Lim",
     location: "Korea",
     usages: {
@@ -49,7 +47,7 @@ const customers = {
     },
   },
 
-  "2": {
+  2: {
     name: "Dabin Lim2",
     location: "North Korea",
     usages: {
@@ -70,13 +68,13 @@ console.log(getRawDataOfCustomers()[customerId].usages.대충중첩된데이터)
 // 2-2. class로 캡슐화
 
 class CustomerData {
-  private _data: any;
+  _data;
 
-  constructor(data: any) {
+  constructor(data) {
     this._data = data;
   }
 
-  setUsage(customerId: string, usage: string) {
+  setUsage(customerId, usage) {
     this._data[customerId].usages.대충중첩된데이터 = usage;
   }
 
