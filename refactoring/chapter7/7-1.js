@@ -78,9 +78,12 @@ class CustomerData {
     this._data[customerId].usages.대충중첩된데이터 = usage;
   }
 
+  cloneDeep(data) {
+    return JSON.parse(JSON.stringify(data));
+  }
+
   get rawData() {
-    // 사실 얘는 cloneDeep(this._data)임 ㅋ
-    return this._data;
+    return this.cloneDeep(this._data);
   }
 }
 
