@@ -40,7 +40,7 @@ function recursiveDeepCopy(o) {
 
 ## immer vs immutable
 
-<img src="../../images/cloneDeep_jsonCopy_recursive.png" width="300px" height="250px"/>
+<img src="../../images/immer_immutable.png" width="300px" height="250px"/>
 
 
 ## 결론
