@@ -1,6 +1,6 @@
 // 중개자 제거하기 (위임 숨기기 반대)
 
-(function after1() {
+(function before() {
   class Person {
     constructor(name) {
       this._name = name;
